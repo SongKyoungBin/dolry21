@@ -1,4 +1,4 @@
-# dolry21-git Test List
+# dolry21-git 초기 명령어 정리
 
 1 로컬 Branch 생성
   > git init
