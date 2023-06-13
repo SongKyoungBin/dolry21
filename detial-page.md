@@ -1,2 +1,3 @@
-디테일 페이지 입니다.
-dolry79
+# detial-page Title
+  id : dolry79
+ subid : dolry21
