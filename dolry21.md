@@ -23,3 +23,5 @@
 
 6 원격저장소 > 로컬저장소 받아오기
   > git pull origin master
+
+Trash Data Test
